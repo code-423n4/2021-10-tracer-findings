@@ -1,0 +1,9 @@
+{
+  "contest": "Tracer contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: Use `isToken0` boolean instead of `uint256 token`",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-10-tracer-findings/issues/15"
+}
