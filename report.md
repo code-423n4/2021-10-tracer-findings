@@ -1,3 +1,11 @@
+---
+sponsor: "Tracer"
+slug: "2021-10-tracer"
+date: "2021-11-15"  
+title: "Tracer contest"
+findings: "https://github.com/code-423n4/2021-10-tracer-findings/issues"
+contest: 40
+---
 
 # Overview
 
